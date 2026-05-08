@@ -21,7 +21,7 @@ git clone https://github.com/MammarDr/data-serializer-deserializer.git
 2- Navigate to the project directory:
 
 ```bash
-cd Custom-Serialization-Deserialization
+cd data-serializer-deserializer
 ```
 
 3- Build and run the project using your preferred IDE or the .NET CLI.
