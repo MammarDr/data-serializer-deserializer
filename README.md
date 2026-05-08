@@ -15,7 +15,7 @@ The primary purpose is to store the state of an object or send it through a netw
 1- Clone the repository:
 
 ```bash
-git clone https://github.com/MammarDr/Custom-Serialization-Deserialization.git
+git clone https://github.com/MammarDr/data-serializer-deserializer.git
 ```
 
 2- Navigate to the project directory:
